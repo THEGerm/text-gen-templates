@@ -2,8 +2,8 @@
     "packageId": "text-gen-templates",
     "name": "text-gen Templates",
     "version": "0.0.1",
-    "minTextGeneratorVersion": "0.1.0",
     "description": "Prompt to be used with the text-generator plugin in Obsidian. Formatted as a template. ",
+    "minTextGeneratorVersion": "0.1.0",
     "author": "~germ",
     "repo": "THEGerm/text-gen-templates"
 }
