@@ -3,7 +3,7 @@ PromptInfo:
  promptId: decryptMadScientistEmail
  name: ✏️ Simplify and decrypt emails that are difficult to read
  description: Select a complicated email, it will summarize, simplify, decrypt difficult information and skip irrelevant items. It will put the result in an abstract box. 
- author: Germ
+ author: ~germ
  tags: email, writing
  version: 0.0.1
 ---
